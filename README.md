@@ -1,6 +1,6 @@
 # Getting Started with Simple App
 
-This project was built by React and NodeJS.
+This project was built by Simukelo Ntshaba.
 
 ## Frontend Run
 
